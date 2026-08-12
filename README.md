@@ -1,1 +1,5 @@
 # UnitConverter
+
+  <a href="LICENSE">
+    <img src="https://img.shields.io/github/license/vix127/UnitConverter" alt="License">
+  </a>
